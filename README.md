@@ -5,7 +5,8 @@
 
 
 ## データセット(csv形式)
-私たちは．kaggleで公開されているwine-quality-whiteを用いました．次元数は12個．データ数は4899個あります．
+私は．kaggleで公開されているwine-quality-whiteを用いました．次元数は12個．データ数は4899個あります．
+https://archive.ics.uci.edu/dataset/109/wine
 
 ## 動作環境
 Macで動作確認。
